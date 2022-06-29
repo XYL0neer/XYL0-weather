@@ -1,0 +1,9 @@
+{
+  "fmt": {
+    "options": {
+      "lineWidth": 100,
+      "proseWrap": "preserve",
+      "singleQuote": true
+    }
+  }
+}
